@@ -22,7 +22,7 @@ public class Solution88 {
                 j--;
             }
         }
-        if(j>0){
+        if(j>=0){
             while(j>=0){
                 nums1[all]=nums2[j];
                 all--;
